@@ -2,9 +2,9 @@
 Contributors: kamranhajhossein
 Tags: imdb, omdb, movie importer, tv series, movie metadata
 Requires at least: 6.4
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 8.1
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -39,8 +39,11 @@ No. OMDb requests run on the WordPress server.
 
 == Changelog ==
 
+= 1.1.1 =
+* Updated tested WordPress compatibility metadata.
+* Added automated PHP compatibility and secret scanning checks.
+
 = 1.1.0 =
 * Rebranded as a fully independent WordPress plugin.
 * Replaced project-specific fields with portable omdb_ post meta.
 * Added GitHub and WordPress.org search-focused documentation.
-

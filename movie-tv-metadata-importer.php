@@ -3,7 +3,7 @@
  * Plugin Name:       Movie & TV Metadata Importer for OMDb
  * Plugin URI:        https://github.com/kamranhajhossein/movie-tv-metadata-importer
  * Description:       Import movie and TV series metadata, ratings and posters from OMDb using an IMDb ID. Works with any public post type.
- * Version:           1.1.0
+ * Version:           1.1.1
  * Requires at least: 6.4
  * Requires PHP:      8.1
  * Author:            Kamran Haj Hossein
@@ -16,7 +16,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'MTMI_VERSION', '1.1.0' );
+define( 'MTMI_VERSION', '1.1.1' );
 define( 'MTMI_FILE', __FILE__ );
 define( 'MTMI_PATH', plugin_dir_path( __FILE__ ) );
 define( 'MTMI_URL', plugin_dir_url( __FILE__ ) );

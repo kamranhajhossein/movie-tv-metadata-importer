@@ -61,5 +61,11 @@ WordPress movie importer, IMDb WordPress plugin, OMDb WordPress plugin, movie me
 
 ## License and data source
 
-The plugin is licensed under GPL-2.0-or-later. Movie metadata is provided by OMDb and is subject to the [OMDb terms](https://www.omdbapi.com/legal.htm). This project is not affiliated with IMDb or OMDb.
+## Changelog
 
+### 1.1.1
+
+- Updated WordPress compatibility metadata through 7.0
+- Added automated PHP compatibility and secret scanning checks
+
+The plugin is licensed under GPL-2.0-or-later. Movie metadata is provided by OMDb and is subject to the [OMDb terms](https://www.omdbapi.com/legal.htm). This project is not affiliated with IMDb or OMDb.
